@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -25,4 +26,8 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0169-majority-element) |
+## Binary Search
+|  |
+| ------- |
+| [0035-search-insert-position](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0035-search-insert-position) |
 <!---LeetCode Topics End-->
