@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0169-majority-element) |
 ## Hash Table
@@ -39,4 +40,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
