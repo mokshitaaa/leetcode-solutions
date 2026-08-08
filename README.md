@@ -6,6 +6,7 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0169-majority-element](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0169-majority-element) |
 ## Hash Table
 |  |
@@ -32,6 +33,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0074-search-a-2d-matrix](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 ## String
 |  |
 | ------- |
@@ -44,4 +46,8 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
