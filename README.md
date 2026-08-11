@@ -53,4 +53,8 @@
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
