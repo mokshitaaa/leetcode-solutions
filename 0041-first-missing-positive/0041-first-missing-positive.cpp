@@ -2,16 +2,15 @@ class Solution {
 public:
     int firstMissingPositive(vector<int>& arr) {
         int n = arr.size();
-        set<int> st;
-        for(int i:arr){
-            st.insert(i);
-        }
-        for(int i =1; i<=n; i++){
-            if(st.find(i) == st.end()){
-                return i;
+        for(int i =0; i<n; i++){
+            while(arr[i]>=1 && arr[i]<=n && arr[arr[i]-1] != arr[i]){
+                swap(arr[i], arr[arr[i]-1]);
             }
-
         }
-         return n+1;
+        for(int i=0; i<n; i++){
+            if(arr[i] != i+1)
+                return i+1;
+        }
+        return n+1;
     }
 };
