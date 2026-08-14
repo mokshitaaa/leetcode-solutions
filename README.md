@@ -11,6 +11,7 @@
 | [0074-search-a-2d-matrix](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0268-missing-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -18,6 +19,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0041-first-missing-positive](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0041-first-missing-positive) |
 | [0169-majority-element](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0268-missing-number) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -27,6 +29,7 @@
 | ------- |
 | [0088-merge-sorted-array](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0268-missing-number) |
 ## Counting
 |  |
 | ------- |
@@ -40,6 +43,7 @@
 | ------- |
 | [0035-search-insert-position](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
+| [0268-missing-number](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0268-missing-number) |
 ## String
 |  |
 | ------- |
@@ -62,4 +66,9 @@
 | ------- |
 | [0007-reverse-integer](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0009-palindrome-number) |
+| [0268-missing-number](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0268-missing-number) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
