@@ -71,4 +71,12 @@
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0268-missing-number) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
+## Recursion
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/mokshitaaa/leetcode-solutions/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
