@@ -1,18 +1,19 @@
 class Solution {
 public:
-    int majorityElement(vector<int>& arr) {
-        unordered_map <int,int> mp;
-        for(int i :arr){
-            mp[i]++;
+    int majorityElement(vector<int>&arr) {
+    int count =0, ele;
+    for(int i=0; i<arr.size(); i++){
+        if(count ==0){
+            ele = arr[i];
+            count =1;
         }
-        int max = INT_MIN;
-        int element;
-        for(pair<int,int> i: mp){
-            if(i.second>max){
-                max = i.second;
-                element = i.first;
-            }
+        else{
+            if(ele == arr[i])
+            count++;
+            else
+            count --;
         }
-        return element;
     }
+    return ele;
+}
 };
